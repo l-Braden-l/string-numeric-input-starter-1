@@ -76,4 +76,4 @@ In your `main.py` file, write the following code:
 - Use either concatenation OR f-strings to display:
     - a message that says how tall the user is in inches
     - a message that says how tall the user is in centimeters
-    - include the user's first name and the correct unit of measure in each message
+- Customize each message by including the user's first name and the correct unit of measure in the message
