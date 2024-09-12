@@ -3,11 +3,12 @@
 
 ## Getting Started
 
+- Submit the URL that points to your repo on Google Classroom
 - Complete the stations for this lesson
 - Create a **public** GitHub repo named: **string-numeric-input-practice**
 - Add a `main.py` file to your repository
 - Write the code for this station in your `main.py` file 
-- Submit the URL that points to your repo on Google Classroom
+
 
 ## General Specifications
 
