@@ -31,6 +31,7 @@ By the end of this lesson, you will be able to:
 ## Resources & Examples
 
 - [Bro Code: Python User Input](https://www.youtube.com/watch?v=DB9Cq6TSTuQ&authuser=0)
+- [How to declare (create) a CONSTANT in Python](https://www.toppr.com/guides/python/python-introduction/variables-constants-literals/python-variables-constants-and-literals/)
 
 ## Your Tasks
 
