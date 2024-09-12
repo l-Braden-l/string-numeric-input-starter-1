@@ -17,8 +17,8 @@
 # 24 MAR 20XX
 # String & Numeric Input
 ```
-- Use short, descriptive filenames and variable names
-- Write your variable names and filenames in lowercase
+- Use short, descriptive variable names
+- Write your variable names in lowercase
 
 ## Resources & Examples
 
