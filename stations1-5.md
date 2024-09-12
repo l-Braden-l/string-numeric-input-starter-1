@@ -37,7 +37,7 @@
 ### Station 5
 ### Code Examples
 
-- Watch the following videos before you attempt to complete Station 6
+- Review these two resources before you attempt to complete Station 6
   - [Bro Code: Python User Input](https://www.youtube.com/watch?v=DB9Cq6TSTuQ&authuser=0)
   - [How to declare (create) a CONSTANT in Python](https://www.toppr.com/guides/python/python-introduction/variables-constants-literals/python-variables-constants-and-literals/)
 
