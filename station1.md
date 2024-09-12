@@ -10,8 +10,7 @@
 ### Station 2
 ### Getting Input from the User
 
-- Read the section **How the `input ( )` Function Works** in Python Crash Course, pp. 114 - 115
-- Why can't you use just the `input ( )` function to get numeric input from the user?
+- Read the section **How the input ( ` Function Works** in Python Crash Course, pp. 114 - 115
 - How should you write the prompts you use with the `input ( )` function?
 
 
@@ -31,4 +30,5 @@
 ### Station 4
 ### Using the int ( ) Function to Accept Numerical Input
 
-- Read pp. 
+- Read pp. 115 - 116 in the *Python Crash Course** book (**Using the int ( ) Function to Accept Numerical Input**)
+- Why can't you use just the `input ( )` function by itself to get numeric input from the user?
