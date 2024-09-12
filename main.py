@@ -1,6 +1,6 @@
 # Student name
 # Current date
-# Project title
+# String & Numeric Input 
 
 # Part 1
 # Comment
