@@ -42,8 +42,7 @@
   - [How to declare (create) a CONSTANT in Python](https://www.toppr.com/guides/python/python-introduction/variables-constants-literals/python-variables-constants-and-literals/)
 
 ---
-### Station 6
-### Practice Projects for String & Numeric Input
+
 
 
 
