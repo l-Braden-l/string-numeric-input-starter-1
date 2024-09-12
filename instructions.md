@@ -20,11 +20,6 @@
 - Use short, descriptive variable names
 - Write your variable names in lowercase
 
-## Resources & Examples
-
-- [Bro Code: Python User Input](https://www.youtube.com/watch?v=DB9Cq6TSTuQ&authuser=0)
-- [How to declare (create) a CONSTANT in Python](https://www.toppr.com/guides/python/python-introduction/variables-constants-literals/python-variables-constants-and-literals/)
-
 ## Programming Practice
 
 In your `main.py` file, write the following code:
