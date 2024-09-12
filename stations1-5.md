@@ -1,6 +1,8 @@
 ## String & Numeric Input
 ### Station 1
 
+[Link to station rotation student answer sheet](https://docs.google.com/document/d/1crIjQEcK2N5-Q7PsezFjowpjHZRsB3bkOeDQBMn8Chg/edit?usp=sharing)
+
 #### Students: ___________________________________  
 
 - What have you learned so far about working with strings in Python?
