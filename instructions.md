@@ -1,9 +1,15 @@
 
-# Name of Assignment
+# String & Numeric Input in Python
 
 ## Objective
 
-> *Objective*
+By the end of this lesson, you will be able to:
+
+> *use the `input( )` function to prompt the user for string input*
+>
+>  *use the `input( )` function and the float ( ) function to prompt the user for a number Python will treat as a float (floating-point number)*
+>
+>  *use the `input( )` function and the int ( ) function to prompt the user for a number Python will treat as an integer (a number without a decimal point)*
 
 ## Getting Started
 
