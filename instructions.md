@@ -57,5 +57,22 @@ In your `main.py` file, write the following code:
 
 ### Task 4
 
+- Use the `input( )` function to prompt the user to enter two different toppings for a large pizza they ordered from Jet's Pizza
+- Next, use the `input( )` function to get the price of the large pizza
+- On the next line of code, use the `float( )` function to convert the price to a float (a number with a decimal point)
+- Use f-strings to display:
+    - the two toppings the user requested for his/her pizza
+    - the price of the large pizza
+- Finally, thank the user for placing an order with Jet's Pizza
 
 ### Task 5
+
+- Prompt the user for his/her first name
+- Prompt the user to enter his/her height in inches
+- Make sure you use the `float( )` function to convert the user's input into a float (a number with a decimal point)
+- Then define a constant called CONVERSION_FACTOR and assign it the value 2.54
+- Use the multiplication operator to multiply the user's height in inches by the CONVERSION_FACTOR constant
+- Use either concatenation OR f-strings to display:
+    - a message that says how tall the user is in inches
+    - a message that says how tall the user is in centimeters
+    - include the user's first name and the correct unit of measure in each message
