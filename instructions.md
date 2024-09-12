@@ -1,20 +1,12 @@
 
 # String & Numeric Input in Python
 
-## Objective
-
-By the end of this lesson, you will be able to:
-
-> *use the `input( )` function to prompt the user for string input*
->
->  *use the `input( )` function and the float ( ) function to prompt the user for a number Python will treat as a float (floating-point number)*
->
->  *use the `input( )` function and the int ( ) function to prompt the user for a number Python will treat as an integer (a number without a decimal point)*
-
 ## Getting Started
 
-- Read instructions and review the project resources
+- Complete the stations for this lesson
 - Create a **public** GitHub repo named: **string-numeric-input-practice**
+- Add a `main.py` file to your repository
+- Write the code for this station in your `main.py` file 
 - Submit the URL that points to your repo on Google Classroom
 
 ## General Specifications
