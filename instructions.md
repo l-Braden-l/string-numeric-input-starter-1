@@ -34,5 +34,4 @@ By the end of this lesson, you will be able to:
 
 ## Your Tasks
 
-- Task
-- Task
+Read the comments in the `main.py` file that's part of this repository.
