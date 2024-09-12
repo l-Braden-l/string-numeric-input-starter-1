@@ -21,7 +21,7 @@
 ### Integers & Floats
 
 - With your partner, read pp. 26 - 27 in the *Python Crash Course** book about **integers** and **floats**
-- Then explain below in simple terms the difference betweeen an integer and a float
+- Then explain below in simple terms the difference between an integer and a float
 - Give an example of each as part of your explanation
 - Make sure you identify which number is an integer and which is a float  
 
