@@ -26,7 +26,7 @@ By the end of this lesson, you will be able to:
 # String & Numeric Input
 ```
 - Use short, descriptive filenames and variable names
-- Write your filenames in lowercase
+- Write your variable names and filenames in lowercase
 
 ## Resources & Examples
 
