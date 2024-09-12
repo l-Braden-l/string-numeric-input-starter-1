@@ -3,7 +3,7 @@
 
 #### Student 1: ___________________________________  
 
-#### Student 1: ___________________________________
+#### Student 2: ___________________________________
 
 
 - What have you learned so far about working with strings in Python?
