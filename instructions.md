@@ -14,31 +14,23 @@ By the end of this lesson, you will be able to:
 ## Getting Started
 
 - Read instructions and review the project resources
-- Create a **public** GitHub repo named: **repo name**
-    - Upload your project files to the repo
-    - Submit the URL that points to your repo on Google Classroom
-
-## Sample Output
-
-![alt text](image.jpg)
-
-
+- Create a **public** GitHub repo named: **string-numeric-input-practice**
+- Submit the URL that points to your repo on Google Classroom
 
 ## General Specifications
 
-- Add a comment block 
+- Add a comment block to the top of your Python script, like so:
 ```python
 # Abraham Lincoln
 # 24 MAR 20XX
-# Intro to Python Variables
+# String & Numeric Input
 ```
-- Use short, descriptive filenames
+- Use short, descriptive filenames and variable names
 - Write your filenames in lowercase
 
 ## Resources & Examples
 
-- http://www.example.com
-- https://www.washingtonpost.com/
+- [Bro Code: Python User Input](https://www.youtube.com/watch?v=DB9Cq6TSTuQ&authuser=0)
 
 ## Your Tasks
 
