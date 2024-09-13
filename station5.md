@@ -33,7 +33,7 @@ In your `main.py` file, write the following code:
 ### Task 1
 - Use the `input( )` function to prompt the user to enter his/her first name and the name of the program they attend at Career Tech.
 - Assign the user's responses to variables
-- Use **concatenation** to build an output string that displays the user's answers
+- Use concatenation to build an output string that displays the user's answers
 - Please use correct capitalization, spelling, and punctuation in your code
 
 ### Task 2
