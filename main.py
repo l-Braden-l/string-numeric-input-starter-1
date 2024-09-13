@@ -32,7 +32,7 @@ height = float(input('How tall are you in inches?: (example: 200)\n'))
 conversion_factor = height / 12
 print('you are '+ str(conversion_factor) + ' feet tall and ' + str(height) +  ' inches tall!')
 
-f
+
 
 
 # Task 5
