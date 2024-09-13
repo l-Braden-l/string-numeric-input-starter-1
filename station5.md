@@ -49,4 +49,10 @@ In your `main.py` file, write the following code:
     - HINT: The Python `str(  )` function might come in handy here!
 - On the next line of code, use an f-string to display a sentence that says how many people are in the user's immediate family
 
-
+### Task 4
+- Using the `input( )` and `float ( )` functions in a single line of code, prompt the user to enter their height in inches (so **60** for 5'10" tall)
+- Write a formula that tells Python how to do the math to convert inches into centimeters
+   - HINT: Define a constant called CONVERSION_FACTOR and assign it the value 2.54
+- Use **concatenation** to display a sentence that says how tall the user is in inches AND in centimeters
+    - HINT: The Python `str(  )` function might come in handy here!
+- Also show you know how to use an f-string to display the user's height in both inches and centimeters
