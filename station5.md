@@ -1,6 +1,12 @@
 
 # String & Numeric Input in Python
 
+## Submitting Your Work
+
+- Add Mr. Provencher as a collaborator to your repository
+- My Career Tech email address: bprovencher@northwested.org
+- Watch this video about how to [add a collaborator](https://youtu.be/6RTCsFqzfcY?feature=shared&t=30) to an online GitHub repository
+
 ## Getting Started
 
 - Submit the URL that points to your repo on Google Classroom
